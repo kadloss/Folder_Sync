@@ -1,0 +1,15 @@
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\bin\Debug\net6.0\Folder_Sync.exe
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\bin\Debug\net6.0\Folder_Sync.deps.json
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\bin\Debug\net6.0\Folder_Sync.runtimeconfig.json
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\bin\Debug\net6.0\Folder_Sync.dll
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\bin\Debug\net6.0\Folder_Sync.pdb
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\obj\Debug\net6.0\Folder_Sync.csproj.AssemblyReference.cache
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\obj\Debug\net6.0\Folder_Sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\obj\Debug\net6.0\Folder_Sync.AssemblyInfoInputs.cache
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\obj\Debug\net6.0\Folder_Sync.AssemblyInfo.cs
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\obj\Debug\net6.0\Folder_Sync.csproj.CoreCompileInputs.cache
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\obj\Debug\net6.0\Folder_Sync.dll
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\obj\Debug\net6.0\refint\Folder_Sync.dll
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\obj\Debug\net6.0\Folder_Sync.pdb
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\obj\Debug\net6.0\Folder_Sync.genruntimeconfig.cache
+C:\Users\kadlos\Desktop\Synchronization\Folder_Sync\Folder_Sync\obj\Debug\net6.0\ref\Folder_Sync.dll
